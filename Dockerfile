@@ -22,4 +22,4 @@ ENV HOME /app
 
 # Default command to run service
 ENV NODE_ENV production
-CMD npm start
+#CMD npm start
